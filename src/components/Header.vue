@@ -14,7 +14,7 @@
       </div>
       <div class="trust">
         <span class="pill">Saldos verificados</span>
-        <span class="pill">Comercios locales</span>
+        <span class="pill">Comercios locales y a domicilio</span>
         <span class="pill">Ofertas por tiempo limitado</span>
       </div>
     </div>
