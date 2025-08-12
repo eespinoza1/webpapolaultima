@@ -3,7 +3,7 @@
     <div class="overlay" />
     <div class="inner">
       <div class="eyebrow">¿Qué es Pa'pola?</div>
-      <h1>Remates de <span>saldos</span> de tiendas cercanas</h1>
+      <h1>Remates de <span>saldos</span> en tiendas cercanas</h1>
       <p class="sub">
         Conectamos <strong>salidas de inventario</strong> (excedentes, últimas unidades y productos con cambio de temporada)
         de comercios locales con compradores que quieren <strong>ahorrar hasta -70%</strong>. ¡Compra bien, ahorra más y ayuda a reducir desperdicio!
